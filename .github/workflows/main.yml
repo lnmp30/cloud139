@@ -77,7 +77,7 @@ jobs:
             echo "success=false" >> $GITHUB_OUTPUT
           fi
         env:
-          ydyp: ${{ secrets.ydyp }}
+          YDYP: ${{ secrets.YDYP }}
 
       - name: Set commit message
         id: commit_msg
