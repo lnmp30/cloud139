@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/lnmp30/cloud139/actions/workflows/main.yml/badge.svg)](https://github.com/lnmp30/cloud139/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/lnmp30/cloud139)
 
-**最后更新:** 2026-05-06 12:42:18 CST
+**最后更新:** 2026-05-06 22:44:38 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/lnmp30/cloud139/actions)
-- 📋 [查看最新运行](https://github.com/lnmp30/cloud139/actions/runs/25416865830)
+- 📋 [查看最新运行](https://github.com/lnmp30/cloud139/actions/runs/25442426182)
 - 🏠 [返回项目主页](https://github.com/lnmp30/cloud139)
 - ⚙️ [手动触发签到](https://github.com/lnmp30/cloud139/actions/workflows/main.yml)
 
@@ -27,7 +27,7 @@
 -已完成: 去使用移动云手机
 
 ✨ 新版热门任务
--进行中: 开启通知领云朵 (已开启15/31天)
+-进行中: 开启通知领云朵 (已开启16/31天)
 -需手动完成: 月月备份得云朵 (阶段1)
 -需手动完成: 去体验AI相机 (阶段2)
 -需手动完成: 切换账号登录移动云盘 (阶段1)
@@ -37,10 +37,7 @@
 -已完成: 当月上传文件满100个
 
 📆 云盘每日任务
--去完成: 手动上传一个文件
--开始上传文件，默认0kb
--上传文件成功，文件名: auto_upload_20260506_124235.txt
--已清理上传文件: 1个
+-已完成: 手动上传一个文件
 
 📆 云盘每月任务
 -去完成: 分享文件得云朵0/7
@@ -53,15 +50,14 @@
 📰 公众号任务
 ✅公众号签到成功
 ❌未摇中 x 15
-剩余抽奖次数50
-✅抽奖成功，获得:2云朵
+剩余抽奖次数49
 
 🔥 热门任务
 本月未备份,暂无连续备份奖励
 - 本月还未备份，下月暂无膨胀云朵
 -领取失败:备份按钮未开启
 - 任务1奖励已领取
-- 通知已开启天数: 15, 满31天可领取奖励
+- 通知已开启天数: 16, 满31天可领取奖励
 
 📧 139邮箱任务
 
