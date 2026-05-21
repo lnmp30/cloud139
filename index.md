@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/lnmp30/cloud139/actions/workflows/main.yml/badge.svg)](https://github.com/lnmp30/cloud139/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/lnmp30/cloud139)
 
-**最后更新:** 2026-05-20 23:54:10 CST
+**最后更新:** 2026-05-21 13:18:55 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/lnmp30/cloud139/actions)
-- 📋 [查看最新运行](https://github.com/lnmp30/cloud139/actions/runs/26174018239)
+- 📋 [查看最新运行](https://github.com/lnmp30/cloud139/actions/runs/26207025015)
 - 🏠 [返回项目主页](https://github.com/lnmp30/cloud139)
 - ⚙️ [手动触发签到](https://github.com/lnmp30/cloud139/actions/workflows/main.yml)
 
@@ -36,7 +36,10 @@
 -已完成: 当月上传文件满100个
 
 📆 云盘每日任务
--已完成: 手动上传一个文件
+-去完成: 手动上传一个文件
+-开始上传文件，默认0kb
+-上传文件成功，文件名: auto_upload_20260521_131914.txt
+-已清理上传文件: 1个
 
 📆 云盘每月任务
 -去完成: 分享文件得云朵7/7
@@ -49,7 +52,8 @@
 📰 公众号任务
 ✅公众号签到成功
 ❌未摇中 x 15
-剩余抽奖次数49
+剩余抽奖次数50
+✅抽奖成功，获得:2云朵
 
 🔥 热门任务
 本月未备份,暂无连续备份奖励
@@ -66,13 +70,13 @@
 -去完成: 查看“我的账单”
 -已完成: 登录移动云盘APP云朵中心
 领取云朵失败: 活动太火爆啦，兑换失败，试试其他奖品吧
--当前待领取:29云朵
--当前云朵数量:179云朵
+-当前待领取:35云朵
+-当前云朵数量:186云朵
 
 准备进行下一个账号
 
 ================ 运行总结 ================
 ☁️ 云朵汇总:
-用户【198****3772】:179云朵
+用户【198****3772】:186云朵
 
 加载通知服务失败~
